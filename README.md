@@ -1,6 +1,6 @@
 # Sample Collection (Lab 1)
 
-Our goal in this module is to gather data from our Fulfillment Center (FC) and store it as a dataset that can later be used to train machine learning models.
+Our goal in this section is to gather data from our Fulfillment Center (FC) and store it as a dataset that can later be used to train machine learning models.
 
 ## Create an S3 bucket to store the samples in
 
@@ -290,7 +290,7 @@ Next, we need to provide the external endpoint to the edge compute so it can beg
 
 # Automated Retraining
 
-This module will be used as a starting point for an automated retraining discussion. There are many different strategies in this space, but almost all of them begin with some form of performance monitoring. If the workshop is ahead of schedule, this module gives us a place to experiment until we are out of time.
+This section will be used as a starting point for an automated retraining discussion. There are many different strategies in this space, but almost all of them begin with some form of performance monitoring. If the workshop is ahead of schedule, this section gives us a place to experiment until we are out of time.
 
 ## Monitor performance with CloudWatch dashboards
 
