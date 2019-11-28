@@ -96,9 +96,10 @@ Finally, we need to add a serverless compute step to read the data notifications
 12. In the top-left, click the **+ Add trigger** button.
 ![](https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/785900f1b98f44a78ece6ba902080043/v1/4-7-Add-Trigger-1.png)
 13. Select **SNS** in the trigger configuration dropdown.
-14. Click the **Add** button in the bottom-right.
+14. Select the **SampleCollectionTopic** SNS topic.
+15. Click the **Add** button in the bottom-right.
 ![](https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/785900f1b98f44a78ece6ba902080043/v1/4-8-Add-Trigger-2.png)
-15. Verify the trigger has been added.
+16. Verify the trigger has been added.
 ![](https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/785900f1b98f44a78ece6ba902080043/v1/4-9-Trigger-Added.png)
 
 </details>
