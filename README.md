@@ -167,7 +167,7 @@ Now that we have trained some models, how do we use them to predict the duration
 
     ```python
     model.deploy(initial_instance_count = 1,
-                 instance_type = 'ml.t2.medium',
+                 instance_type = 'ml.c5.2xlarge',
                  endpoint_name = 'LiveInferenceEndpoint')
     ```
 3. Deploy the model by pressing *Shift+Enter* in the new cell.
