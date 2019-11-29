@@ -295,7 +295,7 @@ This section will be used as a starting point for an automated retraining discus
 
 ## Monitor performance with CloudWatch dashboards
 
-When facing real world problems, it's important that your solutions include a feedback loop via metrics and alarms. This will allow you to monitor your solution's performance and react to errors or regressions. We have set up a very simple dashboard to illustrate how CloudWatch can help fill this role.
+When facing real world problems, it's important that the resulting solutions include a feedback loop via metrics and alarms. This will allow you to monitor your solution's performance and react to any errors or regressions. In this lab, we have set up a very simple dashboard to illustrate how CloudWatch can help fill this role.
 
 <details><summary>Instructions</summary>
 
